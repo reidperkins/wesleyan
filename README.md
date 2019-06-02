@@ -1,2 +1,2 @@
 # wesleyan
-Code related to my thesis research at Wesleyan University
+Python code related to my thesis research at Wesleyan University. "Crater depth.ipynb" is an Jupyter program that uses the GDAL geospatial package to take in digital elevation models (DEMs) of craters, where the user can define the center point and the radius of the crater, iterating a topographic transect any number of times around the circle in terms of degrees to average a robust sense of the depth of a crater. "Dark floor plots.ipynb" is an example of matplotlib used for plotting some of the results of my thesis. For any questions about either program, I can be reached at reidperkins@gmail.com.
